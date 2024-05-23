@@ -95,6 +95,10 @@ if (isset($_POST["login_user_with_product"])) {
             border: 1px solid #ccc;
             width: 100%;
             box-sizing: border-box;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Added box shadow */
+        }
+        .login100-form-btn {
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Added box shadow to the button */
         }
     </style>
 </head>
