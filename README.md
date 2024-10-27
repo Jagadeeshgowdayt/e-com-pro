@@ -1,1 +1,6 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.discovery.com%2Fspace%2Fsmall-galaxies-matter-too&psig=AOvVaw1BvlcVrggYhWmPy7ca3zPf&ust=1730096987561000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMD5jtj3rYkDFQAAAAAdAAAAABAY
+<p align="center">
+  <img src="https://discovery.sndimg.com/content/dam/images/discovery/fullset/2021/5/13/CoverPhoto_Hubble_MilkyWay_img1_0.png.rend.hgtvcom.1280.1280.suffix/1620949598756.png" alt="ntg>
+</p>
+<h1 align="center">
+  VJ FILTER BOT
+</h1>
